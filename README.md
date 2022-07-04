@@ -135,15 +135,15 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 ![img](tree.png)
 
 ### COORDINATES OF THE MOVEMENTS: 
-COORDINATE 1:
+### COORDINATE 1:
 ![img](out1.png)
-COORDINATE 2:
+### COORDINATE 2:
 ![img](out2.png)
 
 ### SIMULATION RESULTS :
-MOVE L:
+### MOVE L:
 ![img](moveL.png)
-MOVE J:
+### MOVE J:
 ![img](moveJ.png)
 ## RESULT:
 The Robot DK software for spatial descriptions has been understood clearly.
