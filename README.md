@@ -141,9 +141,9 @@ COORDINATE 2:
 ![img](out2.png)
 
 ### SIMULATION RESULTS :
-MOVE L
+MOVE L:
 ![img](moveL.png)
-MOVE J
+MOVE J:
 ![img](moveJ.png)
 ## RESULT:
 The Robot DK software for spatial descriptions has been understood clearly.
